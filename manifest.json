@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "scverse",
+  "repo": "governance",
+  "versions": [
+    {
+      "commit": "74bd25edb86d70abda9246176b5bcb82a3343994",
+      "parsed_at": "2026-10-21T21:18:50.874566+00:00",
+      "filetree": "filetree/74bd25edb86d70abda9246176b5bcb82a3343994.nq.gz",
+      "blobs": [
+        "blob/99ddf52f7f7b331d7d7a390889e851772d9dcfd4.nq.gz",
+        "blob/2159e2b3e5ea7ca6f4132ac63b8b380b7d27a57d.nq.gz",
+        "blob/08b046606161682300b3e81e12d4a4ed7b4c1c7e.nq.gz",
+        "blob/015842e85cf2c304265c0c6f829bb2b6613de93d.nq.gz",
+        "blob/ec7bd4c51ff5a46c2555aba02d8641612bfb7a1c.nq.gz",
+        "blob/3ce13cd17be6691bc418dad28d4ebd9342862ee6.nq.gz",
+        "blob/b6e47617de110dea7ca47e087ff1347cc2646eda.nq.gz",
+        "blob/27225594566cbd7da03d5eeb0415356e3d7aa051.nq.gz",
+        "blob/a459ae8802f621f6d63a7a489b5ba9ee50e40c6b.nq.gz",
+        "blob/53c789c650c7fc30926ce4db7cdd1fa728961585.nq.gz",
+        "blob/042404ed990f94409b50e18b9d67b9507d06c5a5.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
