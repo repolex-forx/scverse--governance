@@ -1,0 +1,11 @@
+{
+  "org": "scverse",
+  "repo": "governance",
+  "versions": [
+    {
+      "commit": "74bd25edb86d70abda9246176b5bcb82a3343994",
+      "tag": "",
+      "parsed_at": "2026-10-21T21:21:21.976744+00:00"
+    }
+  ]
+}
