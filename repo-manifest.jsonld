@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scverse/governance/commit/74bd25edb86d70abda9246176b5bcb82a3343994",
       "git:hexsha": "74bd25edb86d70abda9246176b5bcb82a3343994",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
